@@ -28,5 +28,4 @@ Welcome to my GitHub portfolio, where I store all the projects demonstrating app
 
 ### Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
+- LinkedIn: [www.linkedin.com/in/amirmc19138]
