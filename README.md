@@ -29,7 +29,6 @@ Welcome to my GitHub portfolio, where I store all the projects demonstrating app
 - Government Performance
 - Social and Economic Inequality
 - Applied Statistics
-- Data Science
 - Education Policy
 - Housing Policy
 
