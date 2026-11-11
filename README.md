@@ -15,7 +15,12 @@ Welcome to my GitHub portfolio, where I store all the projects demonstrating app
 
 ### Featured Projects
 
-1. sdp-transit-accesibility
+#### Github Projects
+1. [sdp-transit-accesibility](https://github.com/AmirLMcCloud/sdp-transit-accessibility.git)
+#### [ArcGis Online Projects](https://jhumccloud-gisanddata.hub.arcgis.com/)
+1. Facilities Master Plan Transit Isochrone Map
+2. Urbanization Change Analyst Script
+3. Education Equity Map
 
 ### Areas of Interest
 
@@ -25,7 +30,9 @@ Welcome to my GitHub portfolio, where I store all the projects demonstrating app
 - Social and Economic Inequality
 - Applied Statistics
 - Data Science
+- Education Policy
+- Housing Policy
 
 ### Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/amirmc19138]
+- [LinkedIn](www.linkedin.com/in/amirmc19138)
